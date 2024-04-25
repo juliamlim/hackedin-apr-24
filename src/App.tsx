@@ -36,7 +36,7 @@ const App = () => (
 			<DirectoryPreview />
 			<ColorPreview />
 		</MainContent>
-		<LogoWrapper src="/logo.png" />
+		<LogoWrapper src="/hackedin-apr-24/logo.png" />
 	</>
 );
 

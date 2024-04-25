@@ -60,7 +60,7 @@ export const DirectoryPreview = () => {
 			{
 				loading && (
 					<LoadingOverlay>
-						<IconWrapper width="20%" src="/loader.svg"/>
+						<IconWrapper width="20%" src="/hackedin-apr-24/loader.svg"/>
 					</LoadingOverlay>
 				)
 			}

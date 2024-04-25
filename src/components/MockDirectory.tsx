@@ -45,7 +45,7 @@ export const MockDirectory = () => {
 	return (
 		<Layout>
 			<IconBox $color={dark} $column="1/4" $blur>
-				<img height="50%" alt="" src="/mappedin.svg" />
+				<img height="50%" alt="" src="/hackedin-apr-24/mappedin.svg" />
 			</IconBox>
 			<GridBox
 				$color={dark}
@@ -60,13 +60,13 @@ export const MockDirectory = () => {
 				<Box $color={light} $opacity={40} $row="2" $column="2" />
 			</GridBox>
 			<IconBox $color={light} $opacity={40} $row="3" $column="3" $blur>
-				<img height="30%" alt="" src="/search.svg" />
+				<img height="30%" alt="" src="/hackedin-apr-24/search.svg" />
 			</IconBox>
 			<IconBox $color={dark} $row="4" $blur>
-				<img height="30%" alt="" src="/bag.svg" />
+				<img height="30%" alt="" src="/hackedin-apr-24/bag.svg" />
 			</IconBox>
 			<IconBox $color={light} $opacity={40} $row="4" $column="2" $blur>
-				<img height="30%" alt="" src="/map.svg" />
+				<img height="30%" alt="" src="/hackedin-apr-24/map.svg" />
 			</IconBox>
 			<GridBox $color={dark} $row="4" $column="3" $columns={1} $blur>
 				<Box $color={light} $opacity={40} />
