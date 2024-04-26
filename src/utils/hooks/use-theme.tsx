@@ -3,7 +3,7 @@ import { ThemeProvider as SCThemeProvider } from 'styled-components';
 
 export const ThemeProvider = ({ children }: { children: React.ReactNode }) => {
 	const [loading, setLoading] = useState<boolean>(false);
-	const [background, setBackground] = useState<string>('/default.avif')
+	const [background, setBackground] = useState<string>('/hackedin-apr-24/default.avif')
 	const [color, setColor] = useState<string>("rgb(130, 98, 96)");
 
 	return <SCThemeProvider theme={{
